@@ -1,11 +1,4 @@
 # Gz Graphics Library
-## Samples
-### Transformations:
-![Transformation Sample](./transformations.png)
-### Shading:
-![Shading Sample](./Shading%20Samples.png)
-### Texturing:
-![Texturing Samples](./Texturing.png)
 
 ## Overview
 The Gz Graphics Library is a basic rendering system designed to support various rendering tasks including pixel management, rasterization, transformations, shading, and texturing. Below are the key features implemented:
@@ -19,3 +12,12 @@ The Gz Graphics Library is a basic rendering system designed to support various 
 - **Shading Techniques**: Added flat shading, Gouraud shading (vertex color interpolation), and Phong shading (per-pixel normal interpolation). Enabled interpolation of colors and normals across triangle surfaces. Supported ambient and directional lighting with customizable light properties.
 
 - **Texturing and Procedural Textures**: Enabled texture mapping with PPM image support. Applied perspective-corrected texture interpolation for accurate mapping. Implemented bilinear texture interpolation for enhanced visual quality. Created procedural textures with user-defined patterns.
+
+## Samples
+### Transformations:
+![Transformation Sample](./transformations.png)
+### Shading:
+![Shading Sample](./Shading%20Samples.png)
+### Texturing:
+![Texturing Samples](./Texturing.png)
+
